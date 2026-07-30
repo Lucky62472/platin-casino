@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://platin-casino.vercel.app/sitemap.xml
+Sitemap: https://platin-casino-phi.vercel.app/sitemap.xml
